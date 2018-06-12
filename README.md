@@ -1,4 +1,4 @@
-# practice-python
+# Practice-Python
 
 #This is just for python practice.
 
